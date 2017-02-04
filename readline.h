@@ -1,0 +1,1 @@
+char * readline(FILE *inFile);
